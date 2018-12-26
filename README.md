@@ -1,5 +1,11 @@
-# app_flutter
+# Ejemplos app_flutter
+```
+Revisar ejemplos anteriores
+carpeta examples/ AppBar.dart --> lib/ renombrar a main.dart
+```
 
+# Comandos 
+```
 flutter run -> ejecuta y traspasa al dispositivo de emulación
 
 flutter run -> modo hot reload 
@@ -8,3 +14,4 @@ flutter run -> modo hot reload
 
 dependencies -> pubspec.yaml
         flutter packages get
+```   
